@@ -1,0 +1,2 @@
+MainPackage=E:\Code\Projects\CalvinHobbes - Copy\CalvinHobbes\bin\Release\CalvinHobbes_1.1.0.9_Bundle\CalvinHobbes_1.1.0.9_AnyCPU.appx
+SymbolPackage=E:\Code\Projects\CalvinHobbes - Copy\CalvinHobbes\AppPackages\CalvinHobbes_1.1.0.9_Test\CalvinHobbes_1.1.0.9_AnyCPU.appxsym
